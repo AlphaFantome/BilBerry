@@ -1,5 +1,5 @@
 # BilBerry
-TRaitement d'image en Noir et Blanc
+Traitement d'image en Noir et Blanc
 
 Développement d'un algorithme de traitement d'image
 
